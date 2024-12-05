@@ -71,3 +71,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para ma
 Se tiver alguma dúvida, pode entrar em contato através do meu GitHub.
 
 Obrigado por jogar e boa sorte! 🚀
+
+![image](https://github.com/user-attachments/assets/e2d17338-2e9c-420e-9d58-20a5422b7b80)
+
+
